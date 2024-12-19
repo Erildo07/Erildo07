@@ -1,4 +1,4 @@
-## Olá, meu nome é Erildo Nunes futuro especialista T.I  Red Team.
+## Olá, eu sou Erildo Nunes futuro especialista T.I  Red Team.
 Sou um entusiasta da segurança cibernética e apaixonado por explorar vulnerabilidades, especialmente no campo da exploração web e análise de sistemas.
 <div style="display: inline_block"><br>
   
