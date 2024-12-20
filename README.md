@@ -33,7 +33,4 @@ Sou um entusiasta da segurança cibernética e apaixonado por explorar vulnerabi
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Erildo07/Erildo07/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
-
-![Snake animation](https://github.com/Erildo07/Erildo07/blob/output/github-contribution-grid-snake.svg)
-
+_generated with [Erildo07/snk](https://github.com/Platane/snk)_
