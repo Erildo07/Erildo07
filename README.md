@@ -26,5 +26,6 @@ Sou um entusiasta da segurança cibernética e apaixonado por explorar vulnerabi
 <div>
   <a href="https://www.linkedin.com/in/erildo-nunes-27ab4427a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/erildo_07/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  
 </div>
+
+![Snake animation](https://github.com/Erildo07/Erildo07/blob/output/github-contribution-grid-snake.svg)
