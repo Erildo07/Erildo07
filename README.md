@@ -29,9 +29,9 @@ Sou um entusiasta da segurança cibernética e apaixonado por explorar vulnerabi
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erildo07/erildo07/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erildo07/erildo07/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erildo07/erildo07/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Erildo07/Erildo07/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Erildo07/Erildo07/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Erildo07/Erildo07/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Erildo07/snk](https://github.com/Erildo07/snk)_
+_generated with [Platane/snk](https://github.com/Platane/snk)_
