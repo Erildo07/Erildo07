@@ -18,7 +18,7 @@ Sou um entusiasta da segurança cibernética e apaixonado por explorar vulnerabi
   <img align="center" alt="Erildo-C" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="Erildo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Erildo-ansible" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg">
-          
+      
 </div>
   
   ##
@@ -34,3 +34,8 @@ Sou um entusiasta da segurança cibernética e apaixonado por explorar vulnerabi
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Erildo07/Erildo07/output/github-contribution-grid-snake.svg">
 </picture>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Erildo07 /count.svg?"  />
+</div>
+
+###
