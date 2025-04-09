@@ -35,7 +35,8 @@ Sou um entusiasta da segurança cibernética e apaixonado por explorar vulnerabi
 </picture>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Erildo07 /count.svg?"  />
-</div>
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Erildo07}/count.svg" /></p> 
+<br></div>
 
 ###
