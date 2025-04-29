@@ -1,7 +1,7 @@
 ## Olá, eu sou Erildo Nunes futuro especialista T.I  Red Team.
 Sou um entusiasta da segurança cibernética e apaixonado por explorar vulnerabilidades, especialmente no campo da exploração web e análise de sistemas.
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Erildo.png)](https://tryhackme.com/p/Erildo)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Erildo.png?v=2)
 <div style="display: inline_block"><br>
   
   <a href="https://beacons.ai/Erildo07">
