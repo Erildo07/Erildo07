@@ -37,8 +37,12 @@ Sou um entusiasta da segurança cibernética e apaixonado por explorar vulnerabi
 </picture>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Erildo07}/count.svg" /></p> 
-<br></div>
+  <br>
+  <p align="center"><b>Visitors Count</b></p>  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Erildo07&label=Profile%20Views&color=0e75b6&style=flat" />
+  </p> 
+  <br>
+</div>
 
 ###
