@@ -5,10 +5,8 @@ Sou um entusiasta da segurança cibernética e apaixonado por explorar vulnerabi
 <div style="display: inline_block"><br>
   
   <a href="https://beacons.ai/Erildo07">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erildo07&show_icons=true&bg_color=00000000" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erildo07&layout=compact&show_icons=true&bg_color=00000000" />
     <img height="120em" src="./assets/shoto-todoroki-shoto.gif" width="200">
-    
+  </a>
 </div>
     
 <div style="display: inline_block"><br>
