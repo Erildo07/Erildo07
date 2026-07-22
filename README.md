@@ -60,3 +60,11 @@ Sou um entusiasta da segurança cibernética e apaixonado por explorar vulnerabi
 </div>
 
 ###
+
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"
+    alt="Footer"
+  />
+</div>
