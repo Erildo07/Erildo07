@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&color=gradient" />
+</div>
+
 ## Olá, eu sou Erildo Nunes futuro especialista T.I  Red Team.
 Sou um entusiasta da segurança cibernética e apaixonado por explorar vulnerabilidades, especialmente no campo da exploração web e análise de sistemas.
 
