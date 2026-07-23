@@ -8,9 +8,10 @@ Sou um entusiasta da segurança cibernética e apaixonado por explorar vulnerabi
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Erildo.png?v=2)
 
 ###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Erildo07/Erildo07/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<h2 align='center'>
+<div style="display: inline_block" align="rig">
+  <a href="https://github.com/Erildo07">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Erildo07&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=false&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"/>
   <img src="https://streak-stats.demolab.com?user=Erildo07&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/Erildo07/Erildo07/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
